@@ -23,3 +23,4 @@ To achieve this, the program takes the following steps:
 
 The program outputs the word-page number mapping for the specified pages (1, 2, 3) while excluding the words specified in the `excludeWords` set.
  ***** PLEASE PLEASE DO TELL IF IT NEEDS IMPROVEMENT AND ANYTHING I DID WRONG *****
+PLEASE CHANGE THE PATH AND FILE NAME TO THE FILE INCLUDED ACCORDING TO YOUR SETUP .
